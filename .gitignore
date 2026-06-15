@@ -1,0 +1,14 @@
+# Environment and local secrets
+.env
+
+# Build artifacts
+/dist/
+
+# Go tooling
+*.test
+*.out
+coverage.out
+
+# Editor / IDE
+.idea/
+.vscode/
