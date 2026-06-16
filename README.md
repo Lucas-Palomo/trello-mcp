@@ -51,7 +51,7 @@ Example connection shape:
 
 For local build, copy, and MCP host registration, see:
 
-- [docs/local-install.md](/home/palomo/Projects/Personal/mcps/trello-mcp/docs/local-install.md:1)
+- [docs/local-install.md](docs/local-install.md:1)
 
 ### Local CLI usage
 
@@ -62,7 +62,7 @@ go run ./cmd/mcp-client/ boards list
 go run ./cmd/mcp-client/ cards search --query "bug" --json
 ```
 
-More runtime details are in [docs/entrypoints.md](/home/palomo/Projects/Personal/mcps/trello-mcp/docs/entrypoints.md:1).
+More runtime details are in [docs/entrypoints.md](docs/entrypoints.md:1).
 
 ## Features
 
@@ -78,20 +78,20 @@ At a high level, the project currently supports:
 - card search
 - a Cobra-based CLI for local operation and manual testing
 
-For the complete tool surface and command overview, see [docs/features.md](/home/palomo/Projects/Personal/mcps/trello-mcp/docs/features.md:1).
+For the complete tool surface and command overview, see [docs/features.md](docs/features.md:1).
 
 ## Developer Integration Guide
 
 If you want to extend the server, add new tools, or integrate it into another MCP environment, start here:
 
-- [docs/developer-integration.md](/home/palomo/Projects/Personal/mcps/trello-mcp/docs/developer-integration.md:1)
-- [docs/filemap.md](/home/palomo/Projects/Personal/mcps/trello-mcp/docs/filemap.md:1)
-- [specs/README.md](/home/palomo/Projects/Personal/mcps/trello-mcp/specs/README.md:1)
+- [docs/developer-integration.md](docs/developer-integration.md:1)
+- [docs/filemap.md](docs/filemap.md:1)
+- [specs/README.md](specs/README.md:1)
 
 ## Additional Documentation
 
-- [docs/entrypoints.md](/home/palomo/Projects/Personal/mcps/trello-mcp/docs/entrypoints.md:1): server and CLI usage
-- [docs/local-install.md](/home/palomo/Projects/Personal/mcps/trello-mcp/docs/local-install.md:1): local build, copy, and MCP host registration
-- [docs/features.md](/home/palomo/Projects/Personal/mcps/trello-mcp/docs/features.md:1): tool and command overview
-- [docs/developer-integration.md](/home/palomo/Projects/Personal/mcps/trello-mcp/docs/developer-integration.md:1): implementation and extension guide
-- [docs/roadmap.md](/home/palomo/Projects/Personal/mcps/trello-mcp/docs/roadmap.md:1): roadmap and future evolution notes
+- [docs/entrypoints.md](docs/entrypoints.md:1): server and CLI usage
+- [docs/local-install.md](docs/local-install.md:1): local build, copy, and MCP host registration
+- [docs/features.md](docs/features.md:1): tool and command overview
+- [docs/developer-integration.md](docs/developer-integration.md:1): implementation and extension guide
+- [docs/roadmap.md](docs/roadmap.md:1): roadmap and future evolution notes

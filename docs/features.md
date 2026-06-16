@@ -113,4 +113,4 @@ The canonical read flow remains:
 2. `trello_list_lists(board_id)`
 3. `trello_list_cards(list_id)`
 
-For command examples and runtime usage, see [entrypoints.md](/home/palomo/Projects/Personal/mcps/trello-mcp/docs/entrypoints.md:1).
+For command examples and runtime usage, see [entrypoints.md](entrypoints.md).

@@ -21,15 +21,15 @@ The repository is not a bootstrap skeleton anymore. It already contains:
 ## What To Read First
 
 Before changing behavior:
+1. read [filemap.md](filemap.md)
 
-1. read [docs/filemap.md](/home/palomo/Projects/Personal/mcps/trello-mcp/docs/filemap.md:1)
-2. read [docs/project.md](/home/palomo/Projects/Personal/mcps/trello-mcp/docs/project.md:1)
+2. read [project.md](project.md)
 3. read the relevant files in `specs/`
 
 If your change affects runtime usage or developer workflow, also read:
 
-- [docs/entrypoints.md](/home/palomo/Projects/Personal/mcps/trello-mcp/docs/entrypoints.md:1)
-- [docs/developer-integration.md](/home/palomo/Projects/Personal/mcps/trello-mcp/docs/developer-integration.md:1)
+- [entrypoints.md](entrypoints.md)
+- [developer-integration.md](developer-integration.md)
 
 ## Core Rules
 

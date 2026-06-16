@@ -15,7 +15,7 @@ The project is organized around a narrow contract:
 - `specs/`: behavior contracts and surface evolution
 - `docs/`: operational and contributor-facing documentation
 
-See [filemap.md](/home/palomo/Projects/Personal/mcps/trello-mcp/docs/filemap.md:1) for a quick repo map.
+See [filemap.md](filemap.md) for a quick repo map.
 
 ## How The Request Flow Works
 
@@ -60,7 +60,7 @@ Depending on the execution environment, some tests that use `httptest.NewServer`
 - transport is stdio
 - the host should launch the server binary as a subprocess
 - required env vars must be injected by the host
-- the server contract is documented in [entrypoints.md](/home/palomo/Projects/Personal/mcps/trello-mcp/docs/entrypoints.md:1)
+- the server contract is documented in [entrypoints.md](entrypoints.md)
 
 ## Design Constraints
 
